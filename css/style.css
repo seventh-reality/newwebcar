@@ -83,15 +83,6 @@
 
 /* This styles the descriptions of the 3D object */
 
-#content {
-    height: 500px;
-    width: 700px;
-    position: absolute;
-    left: 12%;
-    top: calc(50% - 250px);
-}
-
-
 /* This styles the heading in the 3D description */
 
 #content h2 {
